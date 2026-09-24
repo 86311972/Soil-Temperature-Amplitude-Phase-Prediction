@@ -1,5 +1,9 @@
+MATLAB code for the paper:
+**"Harmonic-Based Soil Temperature Simulation and Thermal Regime Mapping in Iran Using MODIS LST and the Sinusoidal Heat Transfer Equation"**
+
 # Soil-Temperature-Amplitude-Phase-Prediction
 MATLAB code for predicting soil temperature amplitude (STAmp) and phase (STPhase) using MLR, RF, and Ensemble models with 10-fold cross-validation.
+
 
 ## Models
 - MLR-Full (Multiple Linear Regression with all predictors)
