@@ -18,7 +18,7 @@ Hadi Zare (Khormizi)
 - Common fold assignment across all models for fair comparison
 
 ## Input Data
-- 8 predictors: LST_Amp, LST_Phase, NDVI, Albedo, ST, BD, SOC, WV
+- 8 predictors: LST_Amp, LST_Phase, NDVI, Albedo, STI, BD, SOC, WV
 - 319 meteorological stations (2022)
 
 ## Outputs
