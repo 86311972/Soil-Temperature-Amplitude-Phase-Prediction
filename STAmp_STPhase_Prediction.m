@@ -5,6 +5,15 @@ close all;
 %% ========================================================================
 %             SOIL TEMPERATURE AMPLITUDE AND PHASE PREDICTION
 %       MLR-FULL | MLR-SIG | RF-FULL | ENSEMBLE
+%
+%  Companion code for the paper:
+%  "Harmonic-Based Soil Temperature Simulation and Thermal Regime Mapping
+%   in Iran Using MODIS LST and the Sinusoidal Heat Transfer Equation"
+%
+%  Author : Hadi Zare (Khormizi)
+%  Year   : 2026
+% ========================================================================
+
 % ========================================================================
 
 fprintf('\n');
