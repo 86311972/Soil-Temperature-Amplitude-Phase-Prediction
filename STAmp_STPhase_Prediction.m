@@ -56,7 +56,7 @@ predictors = {
     'LST_Phase'
     'NDVI'
     'Albedo'
-    'ST'
+    'STI'
     'BD'
     'SOC'
     'WV'
