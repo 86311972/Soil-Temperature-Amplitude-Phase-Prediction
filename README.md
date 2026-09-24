@@ -1,9 +1,11 @@
+# Soil Temperature Amplitude and Phase Prediction
+
 MATLAB code for the paper:
+
 **"Harmonic-Based Soil Temperature Simulation and Thermal Regime Mapping in Iran Using MODIS LST and the Sinusoidal Heat Transfer Equation"**
 
-# Soil-Temperature-Amplitude-Phase-Prediction
-MATLAB code for predicting soil temperature amplitude (STAmp) and phase (STPhase) using MLR, RF, and Ensemble models with 10-fold cross-validation.
-
+## Author
+Hadi Zare (Khormizi)
 
 ## Models
 - MLR-Full (Multiple Linear Regression with all predictors)
@@ -27,3 +29,9 @@ MATLAB code for predicting soil temperature amplitude (STAmp) and phase (STPhase
 ## Requirements
 - MATLAB R2024b
 - Statistics and Machine Learning Toolbox
+
+## Usage
+1. Place `train_final.xlsx` in the `data/` folder.
+2. Open `STAmp_STPhase_Prediction.m` in MATLAB.
+3. Select the target: `TS_Amp` or `TS_Phase`.
+4. Run the script. Results will be saved in the `results/` folder.
