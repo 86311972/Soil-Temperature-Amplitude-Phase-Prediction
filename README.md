@@ -30,7 +30,7 @@ Hadi Zare (Khormizi)
 - MATLAB R2024b
 - Statistics and Machine Learning Toolbox
 
-## Usage
+## Usage 
 1. Place `train_final.xlsx` in the `data/` folder.
 2. Open `STAmp_STPhase_Prediction.m` in MATLAB.
 3. Select the target: `TS_Amp` or `TS_Phase`.
