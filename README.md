@@ -35,3 +35,7 @@ Hadi Zare (Khormizi)
 2. Open `STAmp_STPhase_Prediction.m` in MATLAB.
 3. Select the target: `TS_Amp` or `TS_Phase`.
 4. Run the script. Results will be saved in the `results/` folder.
+
+## Data Availability
+The input data used in this study are not publicly available due to data-sharing restrictions. However, the code is fully functional and can be applied to any dataset with the same variables.
+
