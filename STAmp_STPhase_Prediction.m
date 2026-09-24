@@ -8,7 +8,7 @@ close all;
 %
 %  Companion code for the paper:
 %  "Harmonic-Based Soil Temperature Simulation and Thermal Regime Mapping
-%   in Iran Using MODIS LST and the Sinusoidal Heat Transfer Equation"
+%   in Iran Using Remote Sensing Data and the Sinusoidal Heat Transfer Equation"
 %
 %  Author : Hadi Zare (Khormizi)
 %  Year   : 2026
